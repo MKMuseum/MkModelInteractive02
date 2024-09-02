@@ -7,6 +7,8 @@
 * MRD 28/08/2024 Implement 'synthetic' touch mode
 *    notes:  Now has sequence and casual modes. Change via 'style' constant below
 *    Put into GIT control repro MkModelInteractive02
+*    Quick WIP test
+*     Quick update 2
 */
 #include <Wire.h>
 #include <ElapsedTime.h>
