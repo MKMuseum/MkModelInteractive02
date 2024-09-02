@@ -8,7 +8,8 @@
 *    notes:  Now has sequence and casual modes. Change via 'style' constant below
 *    Put into GIT control repro MkModelInteractive02
 *    Quick WIP test
-*     Quick update 2
+*    Quick update 2
+*    Quick update 3
 */
 #include <Wire.h>
 #include <ElapsedTime.h>
